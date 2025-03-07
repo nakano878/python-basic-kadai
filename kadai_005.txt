@@ -6,4 +6,4 @@
   252  git commit -m "hello_world.txtを追加"
   253  git add hello_world.txt
   254  git commit -m "日本語訳を追記"
-  255  git log --oneline
+  255  git log --oneline 
