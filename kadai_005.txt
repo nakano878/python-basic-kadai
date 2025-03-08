@@ -1,9 +1,0 @@
-  247  mkdir git_challenge
-  248  cd git_challenge
-  249  git init
-  250  touch hello_world.txt
-  251  git add hello_world.txt
-  252  git commit -m "hello_world.txtを追加"
-  253  git add hello_world.txt
-  254  git commit -m "日本語訳を追記"
-  255  git log --oneline 
